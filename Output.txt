@@ -1,0 +1,7 @@
+Job Id:  1(DEC)
+Error Message:  
+Job termination:  Normal Termination
+Program final output:  16(DEC)
+System Clock  39(HEX)
+I/O time :30(DEC)
+Execution time :27(DEC)
